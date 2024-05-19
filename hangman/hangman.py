@@ -5,7 +5,7 @@ MAX_INCORRECT_GUESSES = 6
 
 
 def select_word():
-    with open("C:\\Users\\aakar\\Documents\\Programming\\python projects\\hangman\\words.txt", mode="r") as words:
+    with open("hangman/words.txt", mode="r") as words:
         word_list = words.readlines()
     return choice(word_list).strip()
 
