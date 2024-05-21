@@ -7,4 +7,5 @@ try guessing the correct word before you hang your person while playing the game
 ## if you fail, this will happen
 ![image](https://github.com/aakarsh27/hangman/assets/71917139/25d539c1-7c38-4b91-ab46-4263be814365)
 
+(and we don't want that do we?)
 
